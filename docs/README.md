@@ -1,4 +1,6 @@
-# Komvos
+# This repo is now archived. Head over to https://komvos.xyz/ for the actively maintained version of the bot.
+
+## Komvos
 
 A Discord bot for cross-server moderation.
 
